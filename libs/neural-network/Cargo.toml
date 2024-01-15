@@ -1,5 +1,5 @@
 [package]
-name = "neural-network"
+name = "lib-neural-network"
 version = "0.1.0"
 authors = ["Karidus-423 <kapuerto23@gmail.com>"]
 edition = "2018"
